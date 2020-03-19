@@ -1,0 +1,11 @@
+{
+	"name": "json2docx",
+	"version": "0.1.0",
+	"description": "Генерация печатной версии пошаговой инструкции",
+	"main": "index.js",
+	"author": "Dmitry Sharabin <dmitrysharabin@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"carbone": "^1.2.1"
+	}
+}
